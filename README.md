@@ -1,0 +1,1 @@
+Frontend Projekt für das Projekt Lieferketten_Backend_Projekt in React.
