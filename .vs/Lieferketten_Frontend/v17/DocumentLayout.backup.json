@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\src\\customermanager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\src\\customermanager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\src\\product_ordermanager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\src\\product_ordermanager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\src\\productmanager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\src\\productmanager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\src\\reactflowgraph.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\src\\reactflowgraph.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\src\\pickup_stationmanager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\src\\pickup_stationmanager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\src\\productmanager.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\src\\productmanager.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\src\\customermanager.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\src\\customermanager.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\public\\favicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\public\\favicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\public\\icons.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\public\\icons.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\src\\assets\\vite.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\src\\assets\\vite.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|c:\\users\\maxim\\source\\repos\\lieferketten_frontend\\lieferketten_frontend\\src\\assets\\hero.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6ADDA501-4555-36DB-AD5E-8BAF50266D92}|Lieferketten_Frontend\\lieferketten_frontend.esproj|solutionrelative:lieferketten_frontend\\src\\assets\\hero.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product_OrderManager.jsx",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\Product_OrderManager.jsx",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\src\\Product_OrderManager.jsx",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\Product_OrderManager.jsx",
+              "RelativeToolTip": "lieferketten_frontend\\src\\Product_OrderManager.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-30T10:40:14.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductManager.css",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\ProductManager.css",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\src\\ProductManager.css",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\ProductManager.css",
+              "RelativeToolTip": "lieferketten_frontend\\src\\ProductManager.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-30T10:39:01.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerManager.jsx",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\CustomerManager.jsx",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\src\\CustomerManager.jsx",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\CustomerManager.jsx",
+              "RelativeToolTip": "lieferketten_frontend\\src\\CustomerManager.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-30T09:23:15.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pickup_StationManager.jsx",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\Pickup_StationManager.jsx",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\src\\Pickup_StationManager.jsx",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\Pickup_StationManager.jsx",
+              "RelativeToolTip": "lieferketten_frontend\\src\\Pickup_StationManager.jsx",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwHQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-30T07:58:37.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManager.jsx",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\ProductManager.jsx",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\src\\ProductManager.jsx",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\ProductManager.jsx",
+              "RelativeToolTip": "lieferketten_frontend\\src\\ProductManager.jsx",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAHYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-28T18:37:03.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\.vscode\\launch.json",
+              "RelativeToolTip": "lieferketten_frontend\\.vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T17:36:32.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\main.jsx",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\main.jsx",
+              "RelativeToolTip": "lieferketten_frontend\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-28T17:31:57.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReactFlowGraph.jsx",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\ReactFlowGraph.jsx",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\src\\ReactFlowGraph.jsx",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\ReactFlowGraph.jsx",
+              "RelativeToolTip": "lieferketten_frontend\\src\\ReactFlowGraph.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-28T18:35:32.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\App.jsx",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\App.jsx",
+              "RelativeToolTip": "lieferketten_frontend\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-28T17:30:36.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerManager.css",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\CustomerManager.css",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\src\\CustomerManager.css",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\CustomerManager.css",
+              "RelativeToolTip": "lieferketten_frontend\\src\\CustomerManager.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-30T09:23:13.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "favicon.svg",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\public\\favicon.svg",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\public\\favicon.svg",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\public\\favicon.svg",
+              "RelativeToolTip": "lieferketten_frontend\\public\\favicon.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyJQAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAT2SURBVEhLtVZ9bBNlHH7uev24dutGyzpG91XZQAaywRwoyARBhUQJ4HAhQ000DKf/yLboP4Z/xJgQJwgBImwJ6uYfzKmIkmim4EwkRFjHhhsCA7fC2LotW7f1u3fn\u002B769knaDhJj4pM/93rv7vc/zfl/xv0JRFE4tJqClpeUICVW0THJoYHF6OY5HKyoq3mIvHwbEgNR5ODidTqW5uVlpamqijZoBXo33BanPKFPKpCzLpExIoyxBkiTcvHkTZWVl9FlVfX39DJP7GlBRFgl9ISLkcSI8eBzS7UIE2mdj6lcRvj8KoAT67uWWl5dTw6qDBw8mmMyYA/Our4SaEmM4MmcBIPVjfdZJFCRdhjh4A3IoAo3tdcj8YvCaAIJ/H0Jr6ENs27YN4XAYwWAQDQ0NMJlMR3fu3MnmJMFgTvW3jjRLSn2RY/Yzzy1Lx2rLPswNN2D8dw3OK1vRjbUwZ5TgjVW5EHgOw5\u002Bno8fRDJfLxcRDoRByc3MxMDCAyspKpi0wZYI51d/l2FKTTj9bujh/Q54HK/QVSBpvRd\u002BFNehctAddwuO4MTSFW3/dxt2xKex5cRF0WRtQXLyMifoDfogGEenp6WhsbFRV1Tmgw2JNTT6xvvSx\u002BeWPunSl\u002Bq1IutaKC6dLsVf6GE0XU\u002BF2jSPbZsbCJQ50eHh88H03tPmvQjQakZmZifx5\u002BbDb7TCS\u002B9i8UDADqzXlhYU5tryNeW6hiN8BbWcXLndshG37D/hsexHqNuejMEnCUHc/zDot0uxpcLr96OWX0RVBFMgK42QqxTDDINkobN5SLFieFCs5obcHl50rUfTmGeRYjSwpw2zAaysyMTY\u002BiRReC17QQDAZ8XX7AHvPQPesKkyXcQxsDrJn6UtWW/eLxonz6Ol7BfusuzF2\u002BALCZJ3T1kQpk\u002BEwIaABRK0GilaLK3dGmCjrA7nEVkx8D5jBrhUXszPlLzlX61KcW/kRlhhs0Ur0JbmwsmokBcm\u002B8AJh0kopIoG2lSMJHMli\u002BQQJBoq3YLV37JDoOatXTq06zY1pZiu/nbnEyZEwzaQ/VpVVIqTdp/dU8AmHhYmzE43lRZFo4BvapLk7qjkl7Q65pVRdKCRNCiGv\u002BafqdQgTEybAUqMtjN5Tw\u002BiQsKfqM04dpHgDXpkYfcpzVT/xs1Q2fL1/lB48JlvOXNR\u002B003G2IMIOYO8ZAd3353AOyc7sfZAG9Z80oZ1n7ah2XmHiVBBKh4TTuiBz8UV6FLkRmeHZ7FuFLOSjQajPS8bwYkp7D3bh\u002BFhD0SdBmZzEhwL8lEyn4d7ZAKTvb3YUpjBWs9mgIjGZBMM5AAky6bw29k1UzZ9IPLLlQ7ZYZ\u002BXY0pPS4ajaCEeUVdfiEyoa8QDz9AoImOj2P9SITTkuLin\u002BgDwHI8f3V/gvf66l91Z6HyeG7/aPtjVgZ72q/iz/Roudf2DK5030Nt1HZ5b/ZgV9uJweRHybCZmHG236hILcT3gOUF5l9Niw\u002B0DUE6kvt/WaKw8s1wcOrfKboLFPwntyCCylACWWwXUPJ2D\u002Bh1LkW2JHgfRKVXBRKPC8Qb3BflwXCRJSjAYUAKUAUq/EvBT\u002Blj0k\u002Bj3Efq9ii8uUtTV1d1zeNAHp5hGnU4PPaWe0gC9gVJk0UCiQSQ0GCHGRbU\u002BixQJvYzh2LFjR0hSFU2kZJtLLU8nxfQywdHa2tqH/xPw3wH8C2\u002BS5E7KNyxKAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-28T17:36:46.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "icons.svg",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\public\\icons.svg",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\public\\icons.svg",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\public\\icons.svg",
+              "RelativeToolTip": "lieferketten_frontend\\public\\icons.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAT2SURBVEhLtVZ9bBNlHH7uev24dutGyzpG91XZQAaywRwoyARBhUQJ4HAhQ000DKf/yLboP4Z/xJgQJwgBImwJ6uYfzKmIkmim4EwkRFjHhhsCA7fC2LotW7f1u3fn\u002B769knaDhJj4pM/93rv7vc/zfl/xv0JRFE4tJqClpeUICVW0THJoYHF6OY5HKyoq3mIvHwbEgNR5ODidTqW5uVlpamqijZoBXo33BanPKFPKpCzLpExIoyxBkiTcvHkTZWVl9FlVfX39DJP7GlBRFgl9ISLkcSI8eBzS7UIE2mdj6lcRvj8KoAT67uWWl5dTw6qDBw8mmMyYA/Our4SaEmM4MmcBIPVjfdZJFCRdhjh4A3IoAo3tdcj8YvCaAIJ/H0Jr6ENs27YN4XAYwWAQDQ0NMJlMR3fu3MnmJMFgTvW3jjRLSn2RY/Yzzy1Lx2rLPswNN2D8dw3OK1vRjbUwZ5TgjVW5EHgOw5\u002Bno8fRDJfLxcRDoRByc3MxMDCAyspKpi0wZYI51d/l2FKTTj9bujh/Q54HK/QVSBpvRd\u002BFNehctAddwuO4MTSFW3/dxt2xKex5cRF0WRtQXLyMifoDfogGEenp6WhsbFRV1Tmgw2JNTT6xvvSx\u002BeWPunSl\u002Bq1IutaKC6dLsVf6GE0XU\u002BF2jSPbZsbCJQ50eHh88H03tPmvQjQakZmZifx5\u002BbDb7TCS\u002B9i8UDADqzXlhYU5tryNeW6hiN8BbWcXLndshG37D/hsexHqNuejMEnCUHc/zDot0uxpcLr96OWX0RVBFMgK42QqxTDDINkobN5SLFieFCs5obcHl50rUfTmGeRYjSwpw2zAaysyMTY\u002BiRReC17QQDAZ8XX7AHvPQPesKkyXcQxsDrJn6UtWW/eLxonz6Ol7BfusuzF2\u002BALCZJ3T1kQpk\u002BEwIaABRK0GilaLK3dGmCjrA7nEVkx8D5jBrhUXszPlLzlX61KcW/kRlhhs0Ur0JbmwsmokBcm\u002B8AJh0kopIoG2lSMJHMli\u002BQQJBoq3YLV37JDoOatXTq06zY1pZiu/nbnEyZEwzaQ/VpVVIqTdp/dU8AmHhYmzE43lRZFo4BvapLk7qjkl7Q65pVRdKCRNCiGv\u002BafqdQgTEybAUqMtjN5Tw\u002BiQsKfqM04dpHgDXpkYfcpzVT/xs1Q2fL1/lB48JlvOXNR\u002B003G2IMIOYO8ZAd3353AOyc7sfZAG9Z80oZ1n7ah2XmHiVBBKh4TTuiBz8UV6FLkRmeHZ7FuFLOSjQajPS8bwYkp7D3bh\u002BFhD0SdBmZzEhwL8lEyn4d7ZAKTvb3YUpjBWs9mgIjGZBMM5AAky6bw29k1UzZ9IPLLlQ7ZYZ\u002BXY0pPS4ajaCEeUVdfiEyoa8QDz9AoImOj2P9SITTkuLin\u002BgDwHI8f3V/gvf66l91Z6HyeG7/aPtjVgZ72q/iz/Roudf2DK5030Nt1HZ5b/ZgV9uJweRHybCZmHG236hILcT3gOUF5l9Niw\u002B0DUE6kvt/WaKw8s1wcOrfKboLFPwntyCCylACWWwXUPJ2D\u002Bh1LkW2JHgfRKVXBRKPC8Qb3BflwXCRJSjAYUAKUAUq/EvBT\u002Blj0k\u002Bj3Efq9ii8uUtTV1d1zeNAHp5hGnU4PPaWe0gC9gVJk0UCiQSQ0GCHGRbU\u002BixQJvYzh2LFjR0hSFU2kZJtLLU8nxfQywdHa2tqH/xPw3wH8C2\u002BS5E7KNyxKAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-28T17:36:47.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\index.html",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\index.html",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\index.html",
+              "RelativeToolTip": "lieferketten_frontend\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-28T17:17:40.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\eslint.config.js",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\eslint.config.js",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\eslint.config.js",
+              "RelativeToolTip": "lieferketten_frontend\\eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-28T17:13:56.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\package.json",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\package.json",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\package.json",
+              "RelativeToolTip": "lieferketten_frontend\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T17:13:55.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\README.md",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\README.md",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\README.md",
+              "RelativeToolTip": "lieferketten_frontend\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-28T17:13:54.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\vite.config.ts",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\vite.config.ts",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\vite.config.ts",
+              "RelativeToolTip": "lieferketten_frontend\\vite.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-28T17:13:53.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "vite.svg",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\assets\\vite.svg",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\src\\assets\\vite.svg",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\assets\\vite.svg",
+              "RelativeToolTip": "lieferketten_frontend\\src\\assets\\vite.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAT2SURBVEhLtVZ9bBNlHH7uev24dutGyzpG91XZQAaywRwoyARBhUQJ4HAhQ000DKf/yLboP4Z/xJgQJwgBImwJ6uYfzKmIkmim4EwkRFjHhhsCA7fC2LotW7f1u3fn\u002B769knaDhJj4pM/93rv7vc/zfl/xv0JRFE4tJqClpeUICVW0THJoYHF6OY5HKyoq3mIvHwbEgNR5ODidTqW5uVlpamqijZoBXo33BanPKFPKpCzLpExIoyxBkiTcvHkTZWVl9FlVfX39DJP7GlBRFgl9ISLkcSI8eBzS7UIE2mdj6lcRvj8KoAT67uWWl5dTw6qDBw8mmMyYA/Our4SaEmM4MmcBIPVjfdZJFCRdhjh4A3IoAo3tdcj8YvCaAIJ/H0Jr6ENs27YN4XAYwWAQDQ0NMJlMR3fu3MnmJMFgTvW3jjRLSn2RY/Yzzy1Lx2rLPswNN2D8dw3OK1vRjbUwZ5TgjVW5EHgOw5\u002Bno8fRDJfLxcRDoRByc3MxMDCAyspKpi0wZYI51d/l2FKTTj9bujh/Q54HK/QVSBpvRd\u002BFNehctAddwuO4MTSFW3/dxt2xKex5cRF0WRtQXLyMifoDfogGEenp6WhsbFRV1Tmgw2JNTT6xvvSx\u002BeWPunSl\u002Bq1IutaKC6dLsVf6GE0XU\u002BF2jSPbZsbCJQ50eHh88H03tPmvQjQakZmZifx5\u002BbDb7TCS\u002B9i8UDADqzXlhYU5tryNeW6hiN8BbWcXLndshG37D/hsexHqNuejMEnCUHc/zDot0uxpcLr96OWX0RVBFMgK42QqxTDDINkobN5SLFieFCs5obcHl50rUfTmGeRYjSwpw2zAaysyMTY\u002BiRReC17QQDAZ8XX7AHvPQPesKkyXcQxsDrJn6UtWW/eLxonz6Ol7BfusuzF2\u002BALCZJ3T1kQpk\u002BEwIaABRK0GilaLK3dGmCjrA7nEVkx8D5jBrhUXszPlLzlX61KcW/kRlhhs0Ur0JbmwsmokBcm\u002B8AJh0kopIoG2lSMJHMli\u002BQQJBoq3YLV37JDoOatXTq06zY1pZiu/nbnEyZEwzaQ/VpVVIqTdp/dU8AmHhYmzE43lRZFo4BvapLk7qjkl7Q65pVRdKCRNCiGv\u002BafqdQgTEybAUqMtjN5Tw\u002BiQsKfqM04dpHgDXpkYfcpzVT/xs1Q2fL1/lB48JlvOXNR\u002B003G2IMIOYO8ZAd3353AOyc7sfZAG9Z80oZ1n7ah2XmHiVBBKh4TTuiBz8UV6FLkRmeHZ7FuFLOSjQajPS8bwYkp7D3bh\u002BFhD0SdBmZzEhwL8lEyn4d7ZAKTvb3YUpjBWs9mgIjGZBMM5AAky6bw29k1UzZ9IPLLlQ7ZYZ\u002BXY0pPS4ajaCEeUVdfiEyoa8QDz9AoImOj2P9SITTkuLin\u002BgDwHI8f3V/gvf66l91Z6HyeG7/aPtjVgZ72q/iz/Roudf2DK5030Nt1HZ5b/ZgV9uJweRHybCZmHG236hILcT3gOUF5l9Niw\u002B0DUE6kvt/WaKw8s1wcOrfKboLFPwntyCCylACWWwXUPJ2D\u002Bh1LkW2JHgfRKVXBRKPC8Qb3BflwXCRJSjAYUAKUAUq/EvBT\u002Blj0k\u002Bj3Efq9ii8uUtTV1d1zeNAHp5hGnU4PPaWe0gC9gVJk0UCiQSQ0GCHGRbU\u002BixQJvYzh2LFjR0hSFU2kZJtLLU8nxfQywdHa2tqH/xPw3wH8C2\u002BS5E7KNyxKAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-28T17:13:49.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "react.svg",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\assets\\react.svg",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\src\\assets\\react.svg",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\assets\\react.svg",
+              "RelativeToolTip": "lieferketten_frontend\\src\\assets\\react.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAT2SURBVEhLtVZ9bBNlHH7uev24dutGyzpG91XZQAaywRwoyARBhUQJ4HAhQ000DKf/yLboP4Z/xJgQJwgBImwJ6uYfzKmIkmim4EwkRFjHhhsCA7fC2LotW7f1u3fn\u002B769knaDhJj4pM/93rv7vc/zfl/xv0JRFE4tJqClpeUICVW0THJoYHF6OY5HKyoq3mIvHwbEgNR5ODidTqW5uVlpamqijZoBXo33BanPKFPKpCzLpExIoyxBkiTcvHkTZWVl9FlVfX39DJP7GlBRFgl9ISLkcSI8eBzS7UIE2mdj6lcRvj8KoAT67uWWl5dTw6qDBw8mmMyYA/Our4SaEmM4MmcBIPVjfdZJFCRdhjh4A3IoAo3tdcj8YvCaAIJ/H0Jr6ENs27YN4XAYwWAQDQ0NMJlMR3fu3MnmJMFgTvW3jjRLSn2RY/Yzzy1Lx2rLPswNN2D8dw3OK1vRjbUwZ5TgjVW5EHgOw5\u002Bno8fRDJfLxcRDoRByc3MxMDCAyspKpi0wZYI51d/l2FKTTj9bujh/Q54HK/QVSBpvRd\u002BFNehctAddwuO4MTSFW3/dxt2xKex5cRF0WRtQXLyMifoDfogGEenp6WhsbFRV1Tmgw2JNTT6xvvSx\u002BeWPunSl\u002Bq1IutaKC6dLsVf6GE0XU\u002BF2jSPbZsbCJQ50eHh88H03tPmvQjQakZmZifx5\u002BbDb7TCS\u002B9i8UDADqzXlhYU5tryNeW6hiN8BbWcXLndshG37D/hsexHqNuejMEnCUHc/zDot0uxpcLr96OWX0RVBFMgK42QqxTDDINkobN5SLFieFCs5obcHl50rUfTmGeRYjSwpw2zAaysyMTY\u002BiRReC17QQDAZ8XX7AHvPQPesKkyXcQxsDrJn6UtWW/eLxonz6Ol7BfusuzF2\u002BALCZJ3T1kQpk\u002BEwIaABRK0GilaLK3dGmCjrA7nEVkx8D5jBrhUXszPlLzlX61KcW/kRlhhs0Ur0JbmwsmokBcm\u002B8AJh0kopIoG2lSMJHMli\u002BQQJBoq3YLV37JDoOatXTq06zY1pZiu/nbnEyZEwzaQ/VpVVIqTdp/dU8AmHhYmzE43lRZFo4BvapLk7qjkl7Q65pVRdKCRNCiGv\u002BafqdQgTEybAUqMtjN5Tw\u002BiQsKfqM04dpHgDXpkYfcpzVT/xs1Q2fL1/lB48JlvOXNR\u002B003G2IMIOYO8ZAd3353AOyc7sfZAG9Z80oZ1n7ah2XmHiVBBKh4TTuiBz8UV6FLkRmeHZ7FuFLOSjQajPS8bwYkp7D3bh\u002BFhD0SdBmZzEhwL8lEyn4d7ZAKTvb3YUpjBWs9mgIjGZBMM5AAky6bw29k1UzZ9IPLLlQ7ZYZ\u002BXY0pPS4ajaCEeUVdfiEyoa8QDz9AoImOj2P9SITTkuLin\u002BgDwHI8f3V/gvf66l91Z6HyeG7/aPtjVgZ72q/iz/Roudf2DK5030Nt1HZ5b/ZgV9uJweRHybCZmHG236hILcT3gOUF5l9Niw\u002B0DUE6kvt/WaKw8s1wcOrfKboLFPwntyCCylACWWwXUPJ2D\u002Bh1LkW2JHgfRKVXBRKPC8Qb3BflwXCRJSjAYUAKUAUq/EvBT\u002Blj0k\u002Bj3Efq9ii8uUtTV1d1zeNAHp5hGnU4PPaWe0gC9gVJk0UCiQSQ0GCHGRbU\u002BixQJvYzh2LFjR0hSFU2kZJtLLU8nxfQywdHa2tqH/xPw3wH8C2\u002BS5E7KNyxKAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-28T17:13:48.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\App.css",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\src\\App.css",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\App.css",
+              "RelativeToolTip": "lieferketten_frontend\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-28T17:13:27.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\index.css",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\src\\index.css",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\index.css",
+              "RelativeToolTip": "lieferketten_frontend\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-28T17:13:16.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "hero.png",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\assets\\hero.png",
+              "RelativeDocumentMoniker": "lieferketten_frontend\\src\\assets\\hero.png",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Lieferketten_Frontend\\lieferketten_frontend\\src\\assets\\hero.png",
+              "RelativeToolTip": "lieferketten_frontend\\src\\assets\\hero.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-05-28T17:13:45.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
